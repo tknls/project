@@ -21,7 +21,7 @@ article h3 + blockquote { margin-top: 6px;
 article p, article blockquote, article li { margin-top: 29px; font-size: 20px; line-height: 34px;
 }
 article blockquote { font-style: italic;
-  position: absolute;
+  position: relative;
 }
 article blockquote ::before {
   content: "";
